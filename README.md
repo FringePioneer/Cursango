@@ -1,5 +1,4 @@
 Cursango
-<<<<<<< HEAD
 ========
 
 Cursango - The Curses Client for Chatango
@@ -593,6 +592,4 @@ user SpeakerfortheExiled for his various bug fixes and other contributions.
 Cursango is not affiliated with, endorsed by, or otherwise connected to
 Chatango LLC or Adobe Systems Incorporated.  All trademarks are copyright of
 their respective owners.
-=======
-========
->>>>>>> 0e1b4d2333f812ab2485b1ab0f68246ddaae978a
+
