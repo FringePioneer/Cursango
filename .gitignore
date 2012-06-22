@@ -1,0 +1,3 @@
+# Since this will primarily be Python scripts and various text files, ignore backups and *.pyc.
+*~
+*.pyc
